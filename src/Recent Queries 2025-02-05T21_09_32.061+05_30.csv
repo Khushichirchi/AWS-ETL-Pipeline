@@ -1,0 +1,2 @@
+Execution ID,Query,Start time,Status,Run time,Data scanned,Query engine version used,Encryption
+1a918a5d-80e6-44bc-94a9-5aa66a1d40c1,select * from data_warehouse limit 10,2025-02-04T12:04:50.449+05:30,SUCCEEDED,542 ms,3.25 MB,Athena engine version 3,
